@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/kharkarmeghaj11/FEDFUI_PROJECT8.git",
+  "homepage": "https://kharkarmeghaj11.github.io/repo8",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

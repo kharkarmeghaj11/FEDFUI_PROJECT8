@@ -15,7 +15,7 @@
 }
 .app .footer{
     background: linear-gradient(90deg, purple, blue);
-    color: white;
+    color: rgb(255, 255, 255);
     line-height: 30px;
     font-size: 8pt;
     padding-left: 10px;
@@ -54,7 +54,7 @@
     top: 0;
     width: 100%;
     height: 100%;
-    background: rgb(0,0,0,0.25);
+    background: rgba(252, 249, 249, 0.989);
 
     display: flex;
     justify-content: center;
@@ -63,7 +63,7 @@
 .app .overlay .popup{
     width: 600px;
     height: 400px;
-    background: white;
+    background: rgb(225, 17, 17);
     border-radius: 10px;
     overflow: hidden;
     
@@ -72,7 +72,7 @@
 }
 .app .overlay .popup .popupHeader{
     background: dodgerblue;
-    color: white;
+    color: rgb(219, 21, 21);
     display: flex;
     align-items: center;
     justify-content: right;
@@ -86,7 +86,7 @@
 }
 .app .overlay .popup .popupHeader button{
     border: none;
-    color: white;
+    color: rgb(216, 17, 17);
     background: none;
     cursor: pointer;
 }
